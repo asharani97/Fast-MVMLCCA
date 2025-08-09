@@ -1,10 +1,12 @@
-# Fast MVMLCCA Implementation [Link](https://rdcu.be/eyMiF)
+# Fast MVMLCCA Implementation   ## [Link](https://rdcu.be/eyMiF)
 This repository hosts code and pre‑computed features for method introduced in our paper: Fast MVMLCCA (FMVMLCCA). 
 
 ### Repository Structure
+```
 /
 ├── MVMLCCA/MVMLCCA_Features/           # Here we store precomputed features 
 └── README.md            # This file
+```
 
 ### Prerequisites
 Matlab 
@@ -13,8 +15,10 @@ Matlab
 Precomputed features are available here: [Link](https://drive.google.com/drive/folders/1BICOId_Km2SLRsPXMtJVVub5SHaUcg3_?usp=sharing) 
 
 ### Usage
+```
 run run_FMVMLCCA.m  (In commandline mode)
 Scripts output mAP@K, where K=50, this can be changed in run_FMVMLCCA.m file
+```
 
 ### To cite
 If you use this code, please cite:
