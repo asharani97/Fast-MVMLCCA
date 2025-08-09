@@ -1,4 +1,4 @@
-# Fast MVMLCCA Implementation   
+# Fast-MVMLCCA Implementation   
 ### [Link](https://rdcu.be/eyMiF)
 This repository hosts code and pre‑computed features for method introduced in our paper: Fast MVMLCCA (FMVMLCCA). 
 
