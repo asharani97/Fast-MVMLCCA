@@ -17,7 +17,7 @@ Precomputed features are available here: [Link](https://drive.google.com/drive/f
 
 ### Usage
 ```
-run run_FMVMLCCA.m  (In commandline mode)
+run run_FMVMLCCA.m  (In command line mode)
 Scripts output mAP@K, where K=50, this can be changed in run_FMVMLCCA.m file
 ```
 
